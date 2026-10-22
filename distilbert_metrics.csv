@@ -1,0 +1,2 @@
+Model,Accuracy,Macro F1,Training Time (seconds),Inference Time (seconds)
+DistilBERT,1.0,1.0,176.9458065032959,5.696835994720459
